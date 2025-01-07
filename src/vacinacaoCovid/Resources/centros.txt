@@ -1,0 +1,4 @@
+C|Centro de Saúde de Apúlia|Avª da Praia, nº 135|Braga|253291937
+C|Centro de Saúde de Oliveira de Azeméis|R. Prof. Dr. Ângelo da Fonseca 186|Aveiro|256392738
+C|Centro de Saúde de Santa Maria da Feira|R. Prof. Egas Moniz 7|Aveiro|256037928
+C|Centro de Saúde de Massarelos|Rua de Miguel Bombarda 234|Porto|223846382

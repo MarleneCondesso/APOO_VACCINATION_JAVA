@@ -1,0 +1,2 @@
+C|Centro de Saúde de Santa Maria da Feira|Marco Costa|Andreia Rodrigues|Pfizer/BioNTech|10249-F|20210220|13:00|Santa Maria da Feira
+H|Hospital de São Sebastião|Ângelo Gomes|Alberto Xará|Moderna|A901375|20210318|14:30|Santa Maria da Feira

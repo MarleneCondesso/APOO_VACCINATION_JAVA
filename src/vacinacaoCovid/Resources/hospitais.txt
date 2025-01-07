@@ -1,0 +1,5 @@
+H|Hospital de São Sebastião|R. Dr. Cândido Pinho|Aveiro|256391830|Bloco 3|23
+H|Hospital de São Miguel|R. Tomás da Costa 95|Aveiro|256999378|Bloco B|378
+H|Hospital de Santo António|Largo do Prof. Abel Salazar|Porto|223729271|Ala D|99
+H|Hospital de São João|Alameda Prof. Hernâni Monteiro|Porto|227492019|Ala 6B|300
+H|Hospital de Fão|Av. Visc. de São Januário 22|Braga|253783648|Bloco A|500

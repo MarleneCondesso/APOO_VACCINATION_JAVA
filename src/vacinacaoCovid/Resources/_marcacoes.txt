@@ -1,0 +1,8 @@
+P|Pavilhão Desportivo de Gandra|Flávia Faria|Luis Santos|Moderna|Z123356|20210217|11:00|Fátima
+C|Centro de Saúde de Santa Maria da Feira|Marco Costa|Andreia Rodrigues|Pfizer/BioNTech|10249-F|20210220|13:00|Santa Maria da Feira
+H|Hospital de São Sebastião|Ângelo Gomes|Alberto Xará|Moderna|A901375|20210318|14:30|Santa Maria da Feira
+P|Pavilhão Desportivo de Rio Tinto|Sandra Silva|José Condesso|Pfizer/BioNTech|10234-G|20210130|18:30|Rio Tinto
+C|Centro de Saúde de Apúlia|Ângelo Gomes|Teresa Matos|Moderna|L654343|20210415|15:30|Esposende
+H|Hospital de Fão|Francisco Bernardes|Rita Sacramento|Pfizer/BioNTech|10504-A|20210719|16:45|Braga
+C|Centro de Saúde de Oliveira de Azeméis|Joana Santos|Jéssica Santos|Pfizer/BioNTech|10657-A|20210217|17:40|Oliveira de Azeméis
+P|Pavilhão Super Bock|Joana Santos|António Faria|Oxford/AstraZeneca|TFO22342|20210415|10:30|Porto

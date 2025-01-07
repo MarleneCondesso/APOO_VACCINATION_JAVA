@@ -1,0 +1,10 @@
+Pfizer/BioNTech|10249-F
+Moderna|A901375
+Oxford/AstraZeneca|PAH18392
+Pfizer/BioNTech|10234-G
+Moderna|Z123356
+Oxford/AstraZeneca|FEQ20382
+Pfizer/BioNTech|10504-A
+Moderna|L654343
+Oxford/AstraZeneca|TFO22342
+Pfizer/BioNTech|10465-B

@@ -1,0 +1,6 @@
+P|Pavilhão das Piscinas|Rua António Castro Côrte Real|Aveiro|256130982|2
+P|Pavilhão Polidesportivo Dr.Salvador Machado|Praceta União Desportiva Oliveirense|Aveiro|256937167|378
+P|Pavilhão Desportivo de Rio Tinto|R. Me. Teresa de Calcutá|Porto|223224324|73
+P|Pavilhão Super Bock|Jardins do Palácio de Cristal, R. de Dom Manuel II|Porto|273929102|32
+P|Pavilhão Municipal de Esposende|R. Chico Glória|Braga|253827272|8
+P|Pavilhão Desportivo de Gandra|R. Glória a Vós Senhor|Fátima|251355214|10
